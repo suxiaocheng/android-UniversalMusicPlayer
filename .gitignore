@@ -1,6 +1,13 @@
+*.iml
 .gradle
 /local.properties
 /.idea
 .DS_Store
-/build
-*.iml
+/captures
+.externalNativeBuild
+
+# Generated files
+build/
+
+# Extra (custom) settings
+extra-settings.gradle
